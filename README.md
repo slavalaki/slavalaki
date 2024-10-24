@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slavalaki
 - 👀 I’m interested in programming and making the world a better place!
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’m currently learning C, Java and Assembler.
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me anisimenco2003@gmail.com
 
